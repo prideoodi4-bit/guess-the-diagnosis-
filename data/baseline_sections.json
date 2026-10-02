@@ -1,0 +1,55 @@
+{
+  "medicine": {
+    "Cardiovascular System (CVS)": 15,
+    "Respiratory System": 11,
+    "Gastroenterology & Hepatology": 21,
+    "Hematology & Oncology": 23,
+    "Endocrinology & Diabetes Mellitus": 17,
+    "Neurology": 16,
+    "Nephrology (~10 Qs)": 10,
+    "Infectious Diseases (~10 Qs)": 16,
+    "Rheumatology (~8 Qs)": 11,
+    "Dermatology (~2 Qs)": 4,
+    "Psychiatry (~2 Qs)": 3
+  },
+  "surgery": {
+    "Basic Surgical Principles": 3,
+    "Peri-operative Care": 3,
+    "Abdominal Wall, Hernia & Umbilicus": 5,
+    "Diabetic Foot, Ulcer, Sinus, Fistula, Cyst": 3,
+    "Gastrointestinal Tract (GIT)": 20,
+    "General Pediatrics": 3,
+    "ATLS Principles": 2,
+    "Breast": 3,
+    "Thyroid & Endocrine Surgery": 4,
+    "Head & Neck": 2,
+    "Orthopedics": 35,
+    "Urology": 11,
+    "Cardiothoracic & Vascular": 4,
+    "Neurosurgery": 3,
+    "Anesthesia": 1,
+    "Plastic & Reconstructive": 2,
+    "ENT": 2,
+    "Ophthalmology": 2
+  },
+  "obgyn": {
+    "Obstetrics": 28,
+    "Gynaecology": 31
+  },
+  "pediatrics": {
+    "Hematology": 10,
+    "Neonatology": 11,
+    "Gastrointestinal System": 7,
+    "Cardiovascular System": 7,
+    "Respiratory System": 7,
+    "Infectious Diseases": 10,
+    "Nephrology": 6,
+    "Central Nervous System": 7,
+    "Endocrine": 7,
+    "Genetics": 2,
+    "Rheumatology": 4,
+    "Others": 6,
+    "Immunization": 1,
+    "Growth & Development": 1
+  }
+}

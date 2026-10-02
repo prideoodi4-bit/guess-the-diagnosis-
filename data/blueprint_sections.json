@@ -1,0 +1,61 @@
+{
+  "source": "https://wizari.netlify.app/",
+  "inspected": "2026-10-02",
+  "sections": {
+    "medicine": [
+      "Cardiovascular System (CVS)",
+      "Respiratory System",
+      "Gastroenterology & Hepatology",
+      "Hematology & Oncology",
+      "Endocrinology & Diabetes Mellitus",
+      "Neurology",
+      "Nephrology (~10 Qs)",
+      "Infectious Diseases (~10 Qs)",
+      "Rheumatology (~8 Qs)",
+      "Dermatology (~2 Qs)",
+      "Psychiatry (~2 Qs)"
+    ],
+    "surgery": [
+      "Basic Surgical Principles",
+      "General Pediatrics",
+      "Peri-operative Care",
+      "Abdominal Wall, Hernia & Umbilicus",
+      "Diabetic Foot, Ulcer, Sinus, Fistula, Cyst",
+      "Gastrointestinal Tract (GIT)",
+      "ATLS Principles",
+      "Breast",
+      "Thyroid & Endocrine Surgery",
+      "Head & Neck",
+      "Orthopedics",
+      "Urology",
+      "Cardiothoracic & Vascular",
+      "Radiology",
+      "Neurosurgery",
+      "Anesthesia",
+      "Plastic & Reconstructive",
+      "ENT",
+      "Ophthalmology"
+    ],
+    "obgyn": [
+      "Obstetrics",
+      "Gynaecology"
+    ],
+    "pediatrics": [
+      "Hematology",
+      "Neonatology",
+      "Gastrointestinal System",
+      "Cardiovascular System",
+      "Respiratory System",
+      "Infectious Diseases",
+      "Nephrology",
+      "Central Nervous System",
+      "Endocrine",
+      "Genetics",
+      "Rheumatology",
+      "Immunization",
+      "Growth & Development",
+      "Others"
+    ]
+  },
+  "radiology_note": "Imaging clues are embedded in disease and fracture cases; there is no separate radiology pool."
+}

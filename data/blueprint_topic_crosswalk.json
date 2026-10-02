@@ -1,0 +1,4653 @@
+{
+  "source": "https://wizari.netlify.app/",
+  "inspected": "2026-10-02",
+  "note": "Nested website children are retained in grouped topic rows. Mappings are representative, not curricular completion scores.",
+  "rows": [
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Cardiac arrest & cardiopulmonary resuscitation",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_152"
+      ],
+      "diagnoses": [
+        "Ventricular fibrillation"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Hypertension & Hypertensive Emergency, Aortic dissection",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_149",
+        "medicine_005"
+      ],
+      "diagnoses": [
+        "Hypertensive emergency",
+        "Acute aortic dissection"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Acute coronary syndrome — STEMI, NSTEMI, unstable angina",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_002",
+        "medicine_003",
+        "medicine_004"
+      ],
+      "diagnoses": [
+        "ST elevation myocardial infarction",
+        "Non ST elevation myocardial infarction",
+        "Unstable angina"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Heart failure (systolic & diastolic), acute pulmonary edema",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_150",
+        "medicine_151",
+        "medicine_016"
+      ],
+      "diagnoses": [
+        "Heart failure with reduced ejection fraction",
+        "Heart failure with preserved ejection fraction",
+        "Acute pulmonary edema"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Cardiac tamponade & pericardial diseases",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_008",
+        "medicine_009"
+      ],
+      "diagnoses": [
+        "Cardiac tamponade",
+        "Acute pericarditis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Atrial fibrillation",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_006"
+      ],
+      "diagnoses": [
+        "Atrial fibrillation"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Supraventricular tachycardia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_007"
+      ],
+      "diagnoses": [
+        "Supraventricular tachycardia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Rheumatic fever, Valvular heart disease, Infective endocarditis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_011",
+        "medicine_012",
+        "medicine_013",
+        "medicine_010"
+      ],
+      "diagnoses": [
+        "Acute rheumatic fever",
+        "Mitral stenosis",
+        "Aortic stenosis",
+        "Infective endocarditis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Congenital heart disease — VSD, ASD, TOF, PDA",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_153",
+        "medicine_154",
+        "medicine_156",
+        "medicine_155"
+      ],
+      "diagnoses": [
+        "Ventricular septal defect",
+        "Atrial septal defect",
+        "Tetralogy of Fallot",
+        "Patent ductus arteriosus"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Cardiomyopathy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_014",
+        "medicine_015"
+      ],
+      "diagnoses": [
+        "Dilated cardiomyopathy",
+        "Hypertrophic cardiomyopathy"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Cardiovascular System (CVS)",
+      "website_topic": "Primary & secondary prevention of cardiovascular diseases",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Asthma & allergic bronchitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_017"
+      ],
+      "diagnoses": [
+        "Asthma"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Acute upper respiratory tract infection",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_160"
+      ],
+      "diagnoses": [
+        "Acute viral upper respiratory tract infection"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Pneumonias — lower respiratory tract infections",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_018",
+        "medicine_187"
+      ],
+      "diagnoses": [
+        "Community acquired pneumonia",
+        "Pneumocystis jirovecii pneumonia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Suppurative lung disease & Bronchiectasis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_157",
+        "medicine_021"
+      ],
+      "diagnoses": [
+        "Lung abscess",
+        "Bronchiectasis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Pulmonary tuberculosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_022"
+      ],
+      "diagnoses": [
+        "Pulmonary tuberculosis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Respiratory failure",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_158",
+        "medicine_159"
+      ],
+      "diagnoses": [
+        "Acute hypercapnic respiratory failure",
+        "Acute hypoxemic respiratory failure"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Pleural disease — effusion, pneumothorax",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_024",
+        "medicine_023"
+      ],
+      "diagnoses": [
+        "Pleural effusion",
+        "Spontaneous pneumothorax"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Lung cancer",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_027"
+      ],
+      "diagnoses": [
+        "Lung cancer"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Acute pulmonary embolism",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_019"
+      ],
+      "diagnoses": [
+        "Pulmonary embolism"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Chronic bronchitis & emphysema",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_020",
+        "medicine_127"
+      ],
+      "diagnoses": [
+        "Chronic obstructive pulmonary disease",
+        "Alpha 1 antitrypsin deficiency"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Interstitial lung disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_025"
+      ],
+      "diagnoses": [
+        "Idiopathic pulmonary fibrosis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Respiratory System",
+      "website_topic": "Adult respiratory distress syndrome — ARDS",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_026"
+      ],
+      "diagnoses": [
+        "Acute respiratory distress syndrome"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Oesophagitis & GERD",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_028"
+      ],
+      "diagnoses": [
+        "Gastroesophageal reflux disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Gastritis & Peptic ulcer",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_029"
+      ],
+      "diagnoses": [
+        "Peptic ulcer disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "GIT bleeding",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_038",
+        "medicine_029"
+      ],
+      "diagnoses": [
+        "Esophageal variceal bleeding",
+        "Peptic ulcer disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Malabsorption",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_030"
+      ],
+      "diagnoses": [
+        "Celiac disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Chronic inflammatory bowel disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_031",
+        "medicine_032"
+      ],
+      "diagnoses": [
+        "Crohn disease",
+        "Ulcerative colitis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Irritable bowel syndrome",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_033"
+      ],
+      "diagnoses": [
+        "Irritable bowel syndrome"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Viral hepatitis, acute fulminant hepatic failure",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_034",
+        "medicine_128",
+        "medicine_129"
+      ],
+      "diagnoses": [
+        "Acute hepatitis A",
+        "Chronic hepatitis B",
+        "Chronic hepatitis C"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Fatty liver, NAFLD",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_044"
+      ],
+      "diagnoses": [
+        "Metabolic dysfunction associated steatotic liver disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Chronic liver disease — cirrhosis, portal hypertension",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_035",
+        "medicine_038",
+        "medicine_036"
+      ],
+      "diagnoses": [
+        "Liver cirrhosis",
+        "Esophageal variceal bleeding",
+        "Hepatic encephalopathy"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Drug-induced liver disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_130"
+      ],
+      "diagnoses": [
+        "Drug induced liver injury"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Acute & chronic pancreatitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_042",
+        "medicine_043"
+      ],
+      "diagnoses": [
+        "Acute pancreatitis",
+        "Chronic pancreatitis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Autoimmune hepatitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_041"
+      ],
+      "diagnoses": [
+        "Autoimmune hepatitis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Gastroenterology & Hepatology",
+      "website_topic": "Metabolic liver disease — Wilson’s, α1-antitrypsin, Hemochromatosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_039",
+        "medicine_127",
+        "medicine_040"
+      ],
+      "diagnoses": [
+        "Wilson disease",
+        "Alpha 1 antitrypsin deficiency",
+        "Hereditary hemochromatosis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Aplastic anemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_047"
+      ],
+      "diagnoses": [
+        "Aplastic anemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Anemia of chronic disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_113"
+      ],
+      "diagnoses": [
+        "Anemia of chronic disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Iron deficiency anemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_045"
+      ],
+      "diagnoses": [
+        "Iron deficiency anemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Autoimmune hemolytic anemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_048"
+      ],
+      "diagnoses": [
+        "Autoimmune hemolytic anemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Hemoglobinopathies — Thalassemia, Sickle cell, G6PD",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_114",
+        "medicine_115",
+        "medicine_116"
+      ],
+      "diagnoses": [
+        "Beta thalassemia trait",
+        "Sickle cell disease",
+        "G6PD deficiency"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Acute leukemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_052"
+      ],
+      "diagnoses": [
+        "Acute myeloid leukemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Bleeding disorders — Hemophilia, Von Willebrand, ITP",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_050",
+        "medicine_051",
+        "medicine_049"
+      ],
+      "diagnoses": [
+        "Hemophilia A",
+        "Von Willebrand disease",
+        "Immune thrombocytopenia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Chronic leukemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_053",
+        "medicine_054"
+      ],
+      "diagnoses": [
+        "Chronic myeloid leukemia",
+        "Chronic lymphocytic leukemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Megaloblastic anemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_046"
+      ],
+      "diagnoses": [
+        "Megaloblastic anemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Myelodysplastic syndrome",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_117"
+      ],
+      "diagnoses": [
+        "Myelodysplastic syndrome"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Lymphomas — Hodgkin, Non-Hodgkin",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_056",
+        "medicine_118"
+      ],
+      "diagnoses": [
+        "Hodgkin lymphoma",
+        "Non Hodgkin lymphoma"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Bone marrow transplantation",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_161"
+      ],
+      "diagnoses": [
+        "Graft versus host disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Tumor lysis syndrome, Hypercalcemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_057",
+        "medicine_162"
+      ],
+      "diagnoses": [
+        "Tumor lysis syndrome",
+        "Hypercalcemia of malignancy"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Multiple myeloma",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_055"
+      ],
+      "diagnoses": [
+        "Multiple myeloma"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Blood transfusion & complications",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_059"
+      ],
+      "diagnoses": [
+        "Acute hemolytic transfusion reaction"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Hematology & Oncology",
+      "website_topic": "Polycythemias, Essential thrombocythemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_119",
+        "medicine_120"
+      ],
+      "diagnoses": [
+        "Polycythemia vera",
+        "Essential thrombocythemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Hyperthyroidism",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_060",
+        "medicine_062"
+      ],
+      "diagnoses": [
+        "Graves disease",
+        "Thyroid storm"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Hypothyroidism & thyroiditis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_061",
+        "medicine_121"
+      ],
+      "diagnoses": [
+        "Hashimoto thyroiditis",
+        "Subacute thyroiditis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Pituitary gland disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_065",
+        "medicine_125"
+      ],
+      "diagnoses": [
+        "Acromegaly",
+        "Central diabetes insipidus"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Adrenal insufficiency & hyperfunction",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_063",
+        "medicine_064",
+        "medicine_122",
+        "medicine_066"
+      ],
+      "diagnoses": [
+        "Primary adrenal insufficiency",
+        "Cushing syndrome",
+        "Primary aldosteronism",
+        "Pheochromocytoma"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Hyperparathyroidism, Hypoparathyroidism & tetany",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_067",
+        "medicine_123"
+      ],
+      "diagnoses": [
+        "Primary hyperparathyroidism",
+        "Hypoparathyroidism"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Hyperlipidemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_163"
+      ],
+      "diagnoses": [
+        "Familial hypercholesterolemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Diabetes Mellitus — acute, chronic complications",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_068",
+        "medicine_069",
+        "medicine_164",
+        "medicine_165",
+        "medicine_166"
+      ],
+      "diagnoses": [
+        "Diabetic ketoacidosis",
+        "Hyperosmolar hyperglycemic state",
+        "Diabetic retinopathy",
+        "Diabetic kidney disease",
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Osteoporosis, Osteomalacia, Vitamin D deficiency",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_070",
+        "medicine_124"
+      ],
+      "diagnoses": [
+        "Osteoporosis",
+        "Osteomalacia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Hypogonadism, Hirsutism & Male infertility",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_126"
+      ],
+      "diagnoses": [
+        "Primary hypogonadism"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Endocrinology & Diabetes Mellitus",
+      "website_topic": "Malnutrition, Obesity, Mineral deficiencies",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Cranial nerve palsies — 1–12",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_131",
+        "medicine_132",
+        "medicine_168",
+        "medicine_169"
+      ],
+      "diagnoses": [
+        "Bell palsy",
+        "Third nerve palsy",
+        "Fourth nerve palsy",
+        "Sixth nerve palsy"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Seizures & Status epilepticus",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_136",
+        "medicine_184"
+      ],
+      "diagnoses": [
+        "Focal epilepsy",
+        "Convulsive status epilepticus"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Demyelinating diseases — multiple sclerosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_073"
+      ],
+      "diagnoses": [
+        "Multiple sclerosis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Cerebrovascular accident — ischemic, hemorrhagic",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_071",
+        "medicine_167",
+        "medicine_072"
+      ],
+      "diagnoses": [
+        "Ischemic stroke",
+        "Intracerebral hemorrhage",
+        "Subarachnoid hemorrhage"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Spinal cord diseases — transverse myelitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_133"
+      ],
+      "diagnoses": [
+        "Transverse myelitis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Migraine, Headache, Idiopathic intracranial hypertension",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_079",
+        "medicine_080"
+      ],
+      "diagnoses": [
+        "Migraine",
+        "Idiopathic intracranial hypertension"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "CNS infections — meningitis, encephalitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_077",
+        "medicine_078"
+      ],
+      "diagnoses": [
+        "Bacterial meningitis",
+        "Herpes simplex encephalitis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Peripheral neuropathy — diabetic, post-infective",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_135",
+        "medicine_074"
+      ],
+      "diagnoses": [
+        "Diabetic peripheral neuropathy",
+        "Guillain Barre syndrome"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Extrapyramidal disorders — Parkinsonism",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_075"
+      ],
+      "diagnoses": [
+        "Parkinson disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Neurology",
+      "website_topic": "Degenerative diseases — motor neuron disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_134"
+      ],
+      "diagnoses": [
+        "Amyotrophic lateral sclerosis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Nephrotic syndrome",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_083"
+      ],
+      "diagnoses": [
+        "Nephrotic syndrome"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Acute renal failure",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_081",
+        "medicine_082"
+      ],
+      "diagnoses": [
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Renal dialysis — CAPD",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_171"
+      ],
+      "diagnoses": [
+        "Peritoneal dialysis associated peritonitis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Kidney transplantation",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_172"
+      ],
+      "diagnoses": [
+        "Acute kidney transplant rejection"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Glomerulonephritis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_137",
+        "medicine_084"
+      ],
+      "diagnoses": [
+        "IgA nephropathy",
+        "Poststreptococcal glomerulonephritis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Chronic renal failure",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_085"
+      ],
+      "diagnoses": [
+        "Chronic kidney disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Electrolyte disturbances, water balance & blood gases",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_087",
+        "medicine_173",
+        "medicine_174",
+        "medicine_088"
+      ],
+      "diagnoses": [
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Hypernatremic dehydration",
+        "Syndrome of inappropriate antidiuresis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Systemic disease & the kidney",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_138",
+        "medicine_165"
+      ],
+      "diagnoses": [
+        "Lupus nephritis",
+        "Diabetic kidney disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Urinary tract infection",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_086"
+      ],
+      "diagnoses": [
+        "Acute pyelonephritis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Nephrology (~10 Qs)",
+      "website_topic": "Drug-induced nephropathy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_082"
+      ],
+      "diagnoses": [
+        "Acute interstitial nephritis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Infectious mononucleosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_089"
+      ],
+      "diagnoses": [
+        "Infectious mononucleosis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Malaria, Leishmaniasis, Toxoplasmosis, Hydatid disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_090",
+        "medicine_091",
+        "medicine_142",
+        "medicine_096"
+      ],
+      "diagnoses": [
+        "Malaria",
+        "Visceral leishmaniasis",
+        "Cerebral toxoplasmosis",
+        "Hydatid disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Exanthematous febrile illness — Measles, Mumps, Herpes",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_143",
+        "medicine_144",
+        "medicine_179"
+      ],
+      "diagnoses": [
+        "Measles",
+        "Mumps",
+        "Herpes zoster"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "HIV infection",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_139"
+      ],
+      "diagnoses": [
+        "HIV infection"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Brucellosis & Salmonellosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_092",
+        "medicine_093"
+      ],
+      "diagnoses": [
+        "Brucellosis",
+        "Typhoid fever"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Food poisoning & acute diarrheal diseases",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_178"
+      ],
+      "diagnoses": [
+        "Staphylococcal food poisoning"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Amoebiasis, Giardiasis & Helminthic infections",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_175",
+        "medicine_098",
+        "medicine_097",
+        "medicine_176",
+        "medicine_186",
+        "medicine_177"
+      ],
+      "diagnoses": [
+        "Amoebic colitis",
+        "Amoebic liver abscess",
+        "Giardiasis",
+        "Ascariasis",
+        "Hookworm infection",
+        "Strongyloidiasis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Viral hemorrhagic fever",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_140"
+      ],
+      "diagnoses": [
+        "Crimean Congo hemorrhagic fever"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Tetanus & Rabies, Staphylococcal/streptococcal infections",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_095",
+        "medicine_094",
+        "medicine_178"
+      ],
+      "diagnoses": [
+        "Tetanus",
+        "Rabies",
+        "Staphylococcal food poisoning"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "SIRS & Septic shock",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_141"
+      ],
+      "diagnoses": [
+        "Septic shock"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Infectious Diseases (~10 Qs)",
+      "website_topic": "Fever of unknown origin",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Degenerative arthritis, Spondyloarthritis, Osteoarthritis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_103",
+        "medicine_180",
+        "medicine_185"
+      ],
+      "diagnoses": [
+        "Osteoarthritis",
+        "Ankylosing spondylitis",
+        "Reactive arthritis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Crystal arthropathy — Gout, CPPD",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_101",
+        "medicine_102"
+      ],
+      "diagnoses": [
+        "Gout",
+        "Calcium pyrophosphate deposition disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Metabolic bone diseases",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "medicine_181",
+        "medicine_124"
+      ],
+      "diagnoses": [
+        "Paget disease of bone",
+        "Osteomalacia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Rheumatoid arthritis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_099"
+      ],
+      "diagnoses": [
+        "Rheumatoid arthritis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Systemic lupus erythematosus",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_100"
+      ],
+      "diagnoses": [
+        "Systemic lupus erythematosus"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Scleroderma",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_104"
+      ],
+      "diagnoses": [
+        "Systemic sclerosis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Vasculitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_148"
+      ],
+      "diagnoses": [
+        "Granulomatosis with polyangiitis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Dermatomyositis, Polymyositis, Behçet’s disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_105",
+        "medicine_147",
+        "medicine_106"
+      ],
+      "diagnoses": [
+        "Dermatomyositis",
+        "Polymyositis",
+        "Behcet disease"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Rheumatology (~8 Qs)",
+      "website_topic": "Sjögren’s syndrome",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_107"
+      ],
+      "diagnoses": [
+        "Sjogren syndrome"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Dermatology (~2 Qs)",
+      "website_topic": "Psoriasis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_108"
+      ],
+      "diagnoses": [
+        "Psoriasis"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Dermatology (~2 Qs)",
+      "website_topic": "Urticaria & Erythema",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_109",
+        "medicine_182"
+      ],
+      "diagnoses": [
+        "Urticaria",
+        "Erythema nodosum"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Dermatology (~2 Qs)",
+      "website_topic": "Sexually transmitted diseases",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_145",
+        "medicine_146"
+      ],
+      "diagnoses": [
+        "Secondary syphilis",
+        "Genital herpes"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Psychiatry (~2 Qs)",
+      "website_topic": "Mood disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_110",
+        "medicine_111"
+      ],
+      "diagnoses": [
+        "Major depressive disorder",
+        "Bipolar I disorder"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Psychiatry (~2 Qs)",
+      "website_topic": "Schizophrenia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_112"
+      ],
+      "diagnoses": [
+        "Schizophrenia"
+      ]
+    },
+    {
+      "specialty": "medicine",
+      "section": "Psychiatry (~2 Qs)",
+      "website_topic": "Psychosomatic disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "medicine_183"
+      ],
+      "diagnoses": [
+        "Somatic symptom disorder"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Metabolic response to injury",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Shock, hemorrhage & transfusion",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_001",
+        "surgery_235",
+        "surgery_234"
+      ],
+      "diagnoses": [
+        "Hypovolemic shock",
+        "Septic shock",
+        "Anaphylactic shock"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Wound healing & tissue repair",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_006"
+      ],
+      "diagnoses": [
+        "Wound dehiscence"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Surgical infection & tropical infections",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_002",
+        "surgery_003"
+      ],
+      "diagnoses": [
+        "Surgical site infection",
+        "Necrotizing fasciitis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Basic surgical skills",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Minimal access surgery",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Oncology principles",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Tissue & molecular diagnosis",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Basic Surgical Principles",
+      "website_topic": "Ethics & patient safety",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "General Pediatrics",
+      "website_topic": "Pediatric surgical pathologies",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_035",
+        "surgery_036",
+        "surgery_037",
+        "surgery_228",
+        "surgery_229",
+        "surgery_230",
+        "surgery_231",
+        "surgery_232",
+        "surgery_233"
+      ],
+      "diagnoses": [
+        "Hypertrophic pyloric stenosis",
+        "Intussusception",
+        "Hirschsprung disease",
+        "Esophageal atresia with tracheoesophageal fistula",
+        "Congenital diaphragmatic hernia",
+        "Malrotation with midgut volvulus",
+        "Duodenal atresia",
+        "Omphalocele",
+        "Gastroschisis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "General Pediatrics",
+      "website_topic": "Pediatric trauma",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_052",
+        "surgery_151"
+      ],
+      "diagnoses": [
+        "Supracondylar humerus fracture",
+        "Splenic rupture"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Peri-operative Care",
+      "website_topic": "Care of high-risk patients",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_005",
+        "surgery_237"
+      ],
+      "diagnoses": [
+        "Anastomotic leak",
+        "Postoperative pulmonary embolism"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Peri-operative Care",
+      "website_topic": "Day-case surgery",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Peri-operative Care",
+      "website_topic": "Nutrition & fluid therapy",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_236"
+      ],
+      "diagnoses": [
+        "Refeeding syndrome"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Abdominal Wall, Hernia & Umbilicus",
+      "website_topic": "Hernias — types, anatomy, repair",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_007",
+        "surgery_008",
+        "surgery_009",
+        "surgery_011",
+        "surgery_137",
+        "surgery_138",
+        "surgery_139",
+        "surgery_140",
+        "surgery_010"
+      ],
+      "diagnoses": [
+        "Indirect inguinal hernia",
+        "Direct inguinal hernia",
+        "Femoral hernia",
+        "Incisional hernia",
+        "Umbilical hernia",
+        "Obturator hernia",
+        "Spigelian hernia",
+        "Richter hernia",
+        "Strangulated hernia"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Abdominal Wall, Hernia & Umbilicus",
+      "website_topic": "Umbilical/abdominal infections & tumors",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_141"
+      ],
+      "diagnoses": [
+        "Patent urachus"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Diabetic Foot, Ulcer, Sinus, Fistula, Cyst",
+      "website_topic": "Diabetic foot — classification, management",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_012",
+        "surgery_145"
+      ],
+      "diagnoses": [
+        "Neuropathic diabetic foot ulcer",
+        "Charcot neuroarthropathy"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Diabetic Foot, Ulcer, Sinus, Fistula, Cyst",
+      "website_topic": "Ulcers — types, causes, management",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_013",
+        "surgery_014",
+        "surgery_012"
+      ],
+      "diagnoses": [
+        "Arterial ulcer",
+        "Venous ulcer",
+        "Neuropathic diabetic foot ulcer"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Diabetic Foot, Ulcer, Sinus, Fistula, Cyst",
+      "website_topic": "Sinuses, Fistulas, Cysts — classification, management",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_142",
+        "surgery_143",
+        "surgery_144"
+      ],
+      "diagnoses": [
+        "Pilonidal sinus",
+        "Anal fistula",
+        "Epidermoid cyst"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Abdominal history & examination",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "GI endoscopy",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Peritoneum, Mesentery, Retroperitoneum",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_030",
+        "surgery_020"
+      ],
+      "diagnoses": [
+        "Acute mesenteric ischemia",
+        "Perforated peptic ulcer"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Esophagus, Stomach, Duodenum",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_022",
+        "surgery_023",
+        "surgery_024",
+        "surgery_148",
+        "surgery_146",
+        "surgery_147",
+        "surgery_021"
+      ],
+      "diagnoses": [
+        "Esophageal achalasia",
+        "Esophageal cancer",
+        "Gastric cancer",
+        "Gastrointestinal stromal tumor",
+        "Mallory Weiss tear",
+        "Boerhaave syndrome",
+        "Gastric outlet obstruction"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Bariatric & metabolic surgery",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_162",
+        "surgery_163"
+      ],
+      "diagnoses": [
+        "Early dumping syndrome",
+        "Late dumping syndrome"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Liver, Spleen, Gall bladder, Bile ducts",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_149",
+        "surgery_150",
+        "surgery_151",
+        "surgery_248",
+        "surgery_016",
+        "surgery_153",
+        "surgery_017",
+        "surgery_018",
+        "surgery_249",
+        "surgery_152",
+        "surgery_250"
+      ],
+      "diagnoses": [
+        "Hepatocellular carcinoma",
+        "Cholangiocarcinoma",
+        "Splenic rupture",
+        "Biliary colic",
+        "Acute cholecystitis",
+        "Acute acalculous cholecystitis",
+        "Acute cholangitis",
+        "Choledocholithiasis",
+        "Mirizzi syndrome",
+        "Post cholecystectomy bile leak",
+        "Post splenectomy sepsis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Pancreas, Small & Large intestine",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_025",
+        "surgery_026",
+        "surgery_154",
+        "surgery_155",
+        "surgery_156",
+        "surgery_157",
+        "surgery_158",
+        "surgery_159",
+        "surgery_160",
+        "surgery_027"
+      ],
+      "diagnoses": [
+        "Pancreatic adenocarcinoma",
+        "Pancreatic pseudocyst",
+        "Walled off pancreatic necrosis",
+        "Insulinoma",
+        "Gastrinoma",
+        "VIPoma",
+        "Glucagonoma",
+        "Meckel diverticulum",
+        "Acute diverticulitis",
+        "Colorectal cancer"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Inflammatory bowel disease, Functional disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_031"
+      ],
+      "diagnoses": [
+        "Toxic megacolon"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Appendix, Rectum, Anus & Anal canal",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_015",
+        "surgery_161",
+        "surgery_032",
+        "surgery_033",
+        "surgery_034",
+        "surgery_143"
+      ],
+      "diagnoses": [
+        "Acute appendicitis",
+        "Rectal prolapse",
+        "Anal fissure",
+        "Hemorrhoids",
+        "Perianal abscess",
+        "Anal fistula"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Gastrointestinal Tract (GIT)",
+      "website_topic": "Intestinal obstruction",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_029",
+        "surgery_028",
+        "surgery_019"
+      ],
+      "diagnoses": [
+        "Adhesive small bowel obstruction",
+        "Sigmoid volvulus",
+        "Gallstone ileus"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "ATLS Principles",
+      "website_topic": "Primary survey",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_038",
+        "surgery_039",
+        "surgery_001",
+        "surgery_246"
+      ],
+      "diagnoses": [
+        "Tension pneumothorax",
+        "Massive hemothorax",
+        "Hypovolemic shock",
+        "Neurogenic shock"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "ATLS Principles",
+      "website_topic": "Secondary survey",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_247",
+        "surgery_176",
+        "surgery_105"
+      ],
+      "diagnoses": [
+        "Traumatic diaphragmatic rupture",
+        "Renal trauma",
+        "Pelvic ring fracture"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Breast",
+      "website_topic": "Inflammatory conditions",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_109",
+        "surgery_042",
+        "surgery_110"
+      ],
+      "diagnoses": [
+        "Lactational mastitis",
+        "Breast abscess",
+        "Duct ectasia"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Breast",
+      "website_topic": "Nipple & areola disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_112",
+        "surgery_111",
+        "surgery_110"
+      ],
+      "diagnoses": [
+        "Paget disease of the breast",
+        "Intraductal papilloma",
+        "Duct ectasia"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Breast",
+      "website_topic": "Breast lumps & tumors",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_040",
+        "surgery_041",
+        "surgery_113",
+        "surgery_114",
+        "surgery_115",
+        "surgery_116",
+        "surgery_117",
+        "surgery_238",
+        "surgery_239"
+      ],
+      "diagnoses": [
+        "Fibroadenoma",
+        "Breast carcinoma",
+        "Phyllodes tumor",
+        "Fat necrosis of the breast",
+        "Fibrocystic breast changes",
+        "Inflammatory breast carcinoma",
+        "Gynecomastia",
+        "Ductal carcinoma in situ",
+        "Simple breast cyst"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "Thyroid anatomy & investigations",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "Hyperthyroidism & Hypothyroidism",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_118",
+        "surgery_119",
+        "surgery_120"
+      ],
+      "diagnoses": [
+        "Graves disease",
+        "Toxic multinodular goiter",
+        "Hashimoto thyroiditis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "Inflammatory thyroid diseases",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_120",
+        "surgery_121"
+      ],
+      "diagnoses": [
+        "Hashimoto thyroiditis",
+        "Subacute thyroiditis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "Goiter & Neck masses",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_119",
+        "surgery_118",
+        "surgery_048"
+      ],
+      "diagnoses": [
+        "Toxic multinodular goiter",
+        "Graves disease",
+        "Thyroglossal duct cyst"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "Thyroid nodules — benign/malignant",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_043",
+        "surgery_122",
+        "surgery_044",
+        "surgery_123"
+      ],
+      "diagnoses": [
+        "Papillary thyroid carcinoma",
+        "Follicular thyroid carcinoma",
+        "Medullary thyroid carcinoma",
+        "Anaplastic thyroid carcinoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "Post-thyroid surgery emergencies",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_045",
+        "surgery_046",
+        "surgery_129"
+      ],
+      "diagnoses": [
+        "Post thyroidectomy neck hematoma",
+        "Post thyroidectomy hypocalcemia",
+        "Recurrent laryngeal nerve injury"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "Parathyroid & adrenal surgery",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_124",
+        "surgery_125"
+      ],
+      "diagnoses": [
+        "Primary hyperparathyroidism",
+        "Pheochromocytoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Thyroid & Endocrine Surgery",
+      "website_topic": "MEN syndromes",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_126",
+        "surgery_127",
+        "surgery_128"
+      ],
+      "diagnoses": [
+        "Multiple endocrine neoplasia type 1",
+        "Multiple endocrine neoplasia type 2A",
+        "Multiple endocrine neoplasia type 2B"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Head & Neck",
+      "website_topic": "Cervical lymphadenopathy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_135",
+        "surgery_136"
+      ],
+      "diagnoses": [
+        "Cervical tuberculous lymphadenitis",
+        "Metastatic cervical lymphadenopathy"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Head & Neck",
+      "website_topic": "Salivary gland disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_047",
+        "surgery_134",
+        "surgery_132",
+        "surgery_133",
+        "surgery_241"
+      ],
+      "diagnoses": [
+        "Pleomorphic adenoma",
+        "Warthin tumor",
+        "Sialolithiasis",
+        "Acute bacterial sialadenitis",
+        "Malignant parotid tumor"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Head & Neck",
+      "website_topic": "Congenital cysts, Pharyngeal pouch",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_048",
+        "surgery_130",
+        "surgery_240",
+        "surgery_131"
+      ],
+      "diagnoses": [
+        "Thyroglossal duct cyst",
+        "Branchial cleft cyst",
+        "Cystic hygroma",
+        "Pharyngeal pouch"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Polytrauma approach",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_105",
+        "surgery_100"
+      ],
+      "diagnoses": [
+        "Pelvic ring fracture",
+        "Femoral shaft fracture"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Fracture classification",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_055",
+        "surgery_056"
+      ],
+      "diagnoses": [
+        "Femoral neck fracture",
+        "Intertrochanteric fracture"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Complications of fractures — local/systemic",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_062",
+        "surgery_063",
+        "surgery_106",
+        "surgery_064",
+        "surgery_107"
+      ],
+      "diagnoses": [
+        "Acute compartment syndrome",
+        "Fat embolism syndrome",
+        "Fracture nonunion",
+        "Avascular necrosis of the femoral head",
+        "Complex regional pain syndrome"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Shoulder, Humerus, Elbow, Radius/Ulna, Wrist/Hand fractures",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_098",
+        "surgery_097",
+        "surgery_052",
+        "surgery_099",
+        "surgery_049",
+        "surgery_050",
+        "surgery_051",
+        "surgery_053",
+        "surgery_054"
+      ],
+      "diagnoses": [
+        "Clavicle fracture",
+        "Humeral shaft fracture",
+        "Supracondylar humerus fracture",
+        "Radial head fracture",
+        "Colles fracture",
+        "Smith fracture",
+        "Scaphoid fracture",
+        "Monteggia fracture dislocation",
+        "Galeazzi fracture dislocation"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Spine, Pelvis, Hip/Acetabulum, Femur fractures",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_245",
+        "surgery_105",
+        "surgery_055",
+        "surgery_056",
+        "surgery_100",
+        "surgery_057"
+      ],
+      "diagnoses": [
+        "Vertebral compression fracture",
+        "Pelvic ring fracture",
+        "Femoral neck fracture",
+        "Intertrochanteric fracture",
+        "Femoral shaft fracture",
+        "Posterior hip dislocation"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Knee, Tibia/Fibula, Ankle/Foot fractures",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_060",
+        "surgery_101",
+        "surgery_102",
+        "surgery_059",
+        "surgery_103",
+        "surgery_061",
+        "surgery_104"
+      ],
+      "diagnoses": [
+        "Tibial plateau fracture",
+        "Tibial shaft fracture",
+        "Patellar fracture",
+        "Lateral malleolus fracture",
+        "Calcaneal fracture",
+        "Jones fracture",
+        "Lisfranc injury"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Nerve injuries",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_244",
+        "surgery_070"
+      ],
+      "diagnoses": [
+        "Radial nerve palsy",
+        "Carpal tunnel syndrome"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Bone & joint infections — acute/chronic",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_065",
+        "surgery_066"
+      ],
+      "diagnoses": [
+        "Osteomyelitis",
+        "Septic arthritis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Genetic & metabolic bone disorders, Neuromuscular disorders",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_069"
+      ],
+      "diagnoses": [
+        "Osteogenesis imperfecta"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Bone/joint tumors — benign/malignant",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_242",
+        "surgery_067",
+        "surgery_068"
+      ],
+      "diagnoses": [
+        "Osteochondroma",
+        "Osteosarcoma",
+        "Ewing sarcoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Non-traumatic disorders: Shoulder",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_218",
+        "surgery_219"
+      ],
+      "diagnoses": [
+        "Adhesive capsulitis",
+        "Rotator cuff tear"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Non-traumatic disorders: Elbow/Wrist/Hand",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_220",
+        "surgery_221",
+        "surgery_222",
+        "surgery_070"
+      ],
+      "diagnoses": [
+        "Lateral epicondylitis",
+        "De Quervain tenosynovitis",
+        "Trigger finger",
+        "Carpal tunnel syndrome"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Non-traumatic disorders: Hip",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_108",
+        "surgery_223",
+        "surgery_224",
+        "surgery_064"
+      ],
+      "diagnoses": [
+        "Developmental dysplasia of the hip",
+        "Slipped capital femoral epiphysis",
+        "Legg Calve Perthes disease",
+        "Avascular necrosis of the femoral head"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Non-traumatic disorders: Knee",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_243",
+        "surgery_226",
+        "surgery_225"
+      ],
+      "diagnoses": [
+        "Baker cyst",
+        "Meniscal tear",
+        "Anterior cruciate ligament tear"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Non-traumatic disorders: Ankle/Foot",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_145"
+      ],
+      "diagnoses": [
+        "Charcot neuroarthropathy"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Orthopedics",
+      "website_topic": "Non-traumatic disorders: Neck/Spine",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_227",
+        "surgery_071"
+      ],
+      "diagnoses": [
+        "Lumbar disc herniation",
+        "Cauda equina syndrome"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Urolithiasis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_072"
+      ],
+      "diagnoses": [
+        "Ureteric calculus"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Uro-oncology",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_074",
+        "surgery_075",
+        "surgery_076",
+        "surgery_173"
+      ],
+      "diagnoses": [
+        "Prostate cancer",
+        "Bladder cancer",
+        "Renal cell carcinoma",
+        "Testicular seminoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "BPH & LUTS",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_073",
+        "surgery_166",
+        "surgery_165"
+      ],
+      "diagnoses": [
+        "Benign prostatic hyperplasia",
+        "Acute urinary retention",
+        "Urethral stricture"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Urinary tract infections/inflammation",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_164",
+        "surgery_078"
+      ],
+      "diagnoses": [
+        "Acute bacterial prostatitis",
+        "Epididymo orchitis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Trauma & emergencies",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_077",
+        "surgery_177",
+        "surgery_174",
+        "surgery_175",
+        "surgery_176"
+      ],
+      "diagnoses": [
+        "Testicular torsion",
+        "Ischemic priapism",
+        "Urethral injury",
+        "Bladder rupture",
+        "Renal trauma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Congenital anomalies",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_169",
+        "surgery_170",
+        "surgery_171",
+        "surgery_172",
+        "surgery_082"
+      ],
+      "diagnoses": [
+        "Posterior urethral valves",
+        "Ureteropelvic junction obstruction",
+        "Hypospadias",
+        "Undescended testis",
+        "Vesicoureteral reflux"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Male infertility",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_179",
+        "surgery_180",
+        "surgery_080"
+      ],
+      "diagnoses": [
+        "Nonobstructive azoospermia",
+        "Obstructive azoospermia",
+        "Varicocele"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Erectile dysfunction",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_081",
+        "surgery_178"
+      ],
+      "diagnoses": [
+        "Erectile dysfunction",
+        "Peyronie disease"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Benign scrotal conditions",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_079",
+        "surgery_080"
+      ],
+      "diagnoses": [
+        "Hydrocele",
+        "Varicocele"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Urology",
+      "website_topic": "Neurogenic bladder, Incontinence, Instruments",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_168",
+        "surgery_167"
+      ],
+      "diagnoses": [
+        "Neurogenic bladder",
+        "Overflow incontinence"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Cardiothoracic & Vascular",
+      "website_topic": "Trauma & emergencies",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_188",
+        "surgery_038",
+        "surgery_039",
+        "surgery_182"
+      ],
+      "diagnoses": [
+        "Flail chest",
+        "Tension pneumothorax",
+        "Massive hemothorax",
+        "Ruptured abdominal aortic aneurysm"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Cardiothoracic & Vascular",
+      "website_topic": "Arterial disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_181",
+        "surgery_084",
+        "surgery_085",
+        "surgery_185"
+      ],
+      "diagnoses": [
+        "Peripheral arterial disease",
+        "Acute limb ischemia",
+        "Abdominal aortic aneurysm",
+        "Arteriovenous fistula"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Cardiothoracic & Vascular",
+      "website_topic": "Venous disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_083",
+        "surgery_183",
+        "surgery_184"
+      ],
+      "diagnoses": [
+        "Deep vein thrombosis",
+        "Varicose veins",
+        "Superficial thrombophlebitis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Cardiothoracic & Vascular",
+      "website_topic": "Lymphatic disorders & tumors",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_086",
+        "surgery_186"
+      ],
+      "diagnoses": [
+        "Lymphedema",
+        "Chylothorax"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Cardiothoracic & Vascular",
+      "website_topic": "Cardiothoracic anatomy/disorders/instruments",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_187"
+      ],
+      "diagnoses": [
+        "Empyema"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Radiology",
+      "website_topic": "Head & neck imaging",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_087",
+        "surgery_088",
+        "surgery_190"
+      ],
+      "diagnoses": [
+        "Extradural hematoma",
+        "Subdural hematoma",
+        "Meningioma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Radiology",
+      "website_topic": "Chest imaging",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_038",
+        "surgery_039",
+        "surgery_187"
+      ],
+      "diagnoses": [
+        "Tension pneumothorax",
+        "Massive hemothorax",
+        "Empyema"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Radiology",
+      "website_topic": "Abdomino-pelvic imaging",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_015",
+        "surgery_028",
+        "surgery_149"
+      ],
+      "diagnoses": [
+        "Acute appendicitis",
+        "Sigmoid volvulus",
+        "Hepatocellular carcinoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Radiology",
+      "website_topic": "Urinary tract imaging",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_072",
+        "surgery_076",
+        "surgery_175"
+      ],
+      "diagnoses": [
+        "Ureteric calculus",
+        "Renal cell carcinoma",
+        "Bladder rupture"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Radiology",
+      "website_topic": "Bones/joints imaging",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_049",
+        "surgery_051",
+        "surgery_055"
+      ],
+      "diagnoses": [
+        "Colles fracture",
+        "Scaphoid fracture",
+        "Femoral neck fracture"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Radiology",
+      "website_topic": "Vascular imaging, safety, interventional radiology",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_083",
+        "surgery_084",
+        "surgery_085"
+      ],
+      "diagnoses": [
+        "Deep vein thrombosis",
+        "Acute limb ischemia",
+        "Abdominal aortic aneurysm"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Neurosurgery",
+      "website_topic": "CNS trauma, intracranial bleeding, GCS",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_087",
+        "surgery_088",
+        "surgery_194"
+      ],
+      "diagnoses": [
+        "Extradural hematoma",
+        "Subdural hematoma",
+        "Diffuse axonal injury"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Neurosurgery",
+      "website_topic": "Hydrocephalus, Spina bifida",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_089",
+        "surgery_193"
+      ],
+      "diagnoses": [
+        "Hydrocephalus",
+        "Myelomeningocele"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Neurosurgery",
+      "website_topic": "CNS infections",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_189"
+      ],
+      "diagnoses": [
+        "Brain abscess"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Neurosurgery",
+      "website_topic": "CNS tumors",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_190",
+        "surgery_191",
+        "surgery_192"
+      ],
+      "diagnoses": [
+        "Meningioma",
+        "Glioblastoma",
+        "Vestibular schwannoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Anesthesia",
+      "website_topic": "Types, indications & complications",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_090",
+        "surgery_195",
+        "surgery_196",
+        "surgery_197",
+        "surgery_198"
+      ],
+      "diagnoses": [
+        "Malignant hyperthermia",
+        "Local anesthetic systemic toxicity",
+        "Post dural puncture headache",
+        "High spinal block",
+        "Aspiration pneumonitis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Anesthesia",
+      "website_topic": "Principles of critical care in surgical patients",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_235",
+        "surgery_236"
+      ],
+      "diagnoses": [
+        "Septic shock",
+        "Refeeding syndrome"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Plastic & Reconstructive",
+      "website_topic": "Burns & skin grafts",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_091",
+        "surgery_199",
+        "surgery_204"
+      ],
+      "diagnoses": [
+        "Full thickness burn",
+        "Partial thickness burn",
+        "Inhalation injury"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Plastic & Reconstructive",
+      "website_topic": "Skin lesions (benign/malignant), Bed sores",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_200",
+        "surgery_201",
+        "surgery_202",
+        "surgery_092"
+      ],
+      "diagnoses": [
+        "Basal cell carcinoma",
+        "Cutaneous squamous cell carcinoma",
+        "Melanoma",
+        "Pressure ulcer"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Plastic & Reconstructive",
+      "website_topic": "Cleft lip & palate",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "surgery_203"
+      ],
+      "diagnoses": [
+        "Cleft palate"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "ENT",
+      "website_topic": "ENT infections or emergencies/trauma",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_093",
+        "surgery_205",
+        "surgery_206",
+        "surgery_207",
+        "surgery_094",
+        "surgery_210",
+        "surgery_211"
+      ],
+      "diagnoses": [
+        "Acute otitis media",
+        "Otitis externa",
+        "Mastoiditis",
+        "Cholesteatoma",
+        "Peritonsillar abscess",
+        "Epistaxis",
+        "Septal hematoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "ENT",
+      "website_topic": "Audiology",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_208",
+        "surgery_192"
+      ],
+      "diagnoses": [
+        "Sudden sensorineural hearing loss",
+        "Vestibular schwannoma"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Ophthalmology",
+      "website_topic": "Painful/red eye disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_095",
+        "surgery_212",
+        "surgery_213",
+        "surgery_217"
+      ],
+      "diagnoses": [
+        "Acute angle closure glaucoma",
+        "Anterior uveitis",
+        "Corneal ulcer",
+        "Orbital cellulitis"
+      ]
+    },
+    {
+      "specialty": "surgery",
+      "section": "Ophthalmology",
+      "website_topic": "Visual loss/blurred vision",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "surgery_096",
+        "surgery_214",
+        "surgery_215",
+        "surgery_216"
+      ],
+      "diagnoses": [
+        "Retinal detachment",
+        "Central retinal artery occlusion",
+        "Central retinal vein occlusion",
+        "Cataract"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Physiological changes in pregnancy",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Anatomy and embryology",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Diabetes Mellitus in pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_001"
+      ],
+      "diagnoses": [
+        "Gestational diabetes mellitus"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Hypertensive disorder in pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_060",
+        "obgyn_061",
+        "obgyn_002",
+        "obgyn_062",
+        "obgyn_003",
+        "obgyn_004"
+      ],
+      "diagnoses": [
+        "Chronic hypertension in pregnancy",
+        "Gestational hypertension",
+        "Pre eclampsia",
+        "Superimposed pre eclampsia",
+        "Eclampsia",
+        "HELLP syndrome"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Kidney disease & UTI in pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_063",
+        "obgyn_064",
+        "obgyn_065",
+        "obgyn_066",
+        "obgyn_067"
+      ],
+      "diagnoses": [
+        "Acute pyelonephritis in pregnancy",
+        "Acute cystitis in pregnancy",
+        "Asymptomatic bacteriuria in pregnancy",
+        "Pregnancy related acute kidney injury",
+        "Renal cortical necrosis"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Heart disease in pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_068",
+        "obgyn_069"
+      ],
+      "diagnoses": [
+        "Peripartum cardiomyopathy",
+        "Mitral stenosis in pregnancy"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "GIT problems in pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_020",
+        "obgyn_005",
+        "obgyn_058"
+      ],
+      "diagnoses": [
+        "Hyperemesis gravidarum",
+        "Acute fatty liver of pregnancy",
+        "Intrahepatic cholestasis of pregnancy"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Bleeding disorders in pregnancy",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_076",
+        "obgyn_077"
+      ],
+      "diagnoses": [
+        "Maternal immune thrombocytopenia",
+        "Gestational thrombocytopenia"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Coagulation disorders in pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_075",
+        "obgyn_071",
+        "obgyn_070",
+        "obgyn_131"
+      ],
+      "diagnoses": [
+        "Disseminated intravascular coagulation",
+        "Deep vein thrombosis in pregnancy",
+        "Pulmonary embolism in pregnancy",
+        "Antiphospholipid syndrome"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Anemia in pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_072",
+        "obgyn_073",
+        "obgyn_074"
+      ],
+      "diagnoses": [
+        "Iron deficiency anemia in pregnancy",
+        "Folate deficiency anemia in pregnancy",
+        "Vitamin B12 deficiency in pregnancy"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Rh isoimmunisation",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_019",
+        "obgyn_078"
+      ],
+      "diagnoses": [
+        "Rh alloimmunization",
+        "Hemolytic disease of the fetus and newborn"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Congenital & chromosomal abnormalities",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_083",
+        "obgyn_082"
+      ],
+      "diagnoses": [
+        "Down syndrome",
+        "Fetal hydrops"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Intrauterine infection",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_016",
+        "obgyn_079",
+        "obgyn_080",
+        "obgyn_081"
+      ],
+      "diagnoses": [
+        "Intraamniotic infection",
+        "Congenital cytomegalovirus infection",
+        "Congenital toxoplasmosis",
+        "Congenital rubella syndrome"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "IUGR & IUFD",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_017",
+        "obgyn_018"
+      ],
+      "diagnoses": [
+        "Fetal growth restriction",
+        "Intrauterine fetal death"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Labour",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_024",
+        "obgyn_023"
+      ],
+      "diagnoses": [
+        "Shoulder dystocia",
+        "Umbilical cord prolapse"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Abnormal labour",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_025",
+        "obgyn_088",
+        "obgyn_013"
+      ],
+      "diagnoses": [
+        "Obstructed labor",
+        "Persistent occiput posterior position",
+        "Uterine rupture"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Antepartum haemorrhage — APH",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_006",
+        "obgyn_007",
+        "obgyn_009"
+      ],
+      "diagnoses": [
+        "Placenta previa",
+        "Placental abruption",
+        "Vasa previa"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Postpartum haemorrhage — PPH",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_010",
+        "obgyn_011",
+        "obgyn_012",
+        "obgyn_008",
+        "obgyn_094"
+      ],
+      "diagnoses": [
+        "Uterine atony",
+        "Retained placental tissue",
+        "Uterine inversion",
+        "Placenta accreta spectrum",
+        "Vulvovaginal hematoma"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Malpresentation",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_085",
+        "obgyn_086",
+        "obgyn_087"
+      ],
+      "diagnoses": [
+        "Face presentation",
+        "Brow presentation",
+        "Transverse lie"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Breech",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_022"
+      ],
+      "diagnoses": [
+        "Breech presentation"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Multiple pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_026"
+      ],
+      "diagnoses": [
+        "Twin to twin transfusion syndrome"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Fetal heart monitoring",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_089"
+      ],
+      "diagnoses": [
+        "Cord compression"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Induction of labour",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_090"
+      ],
+      "diagnoses": [
+        "Uterine tachysystole"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Preterm labour & PROM",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_015",
+        "obgyn_014",
+        "obgyn_084"
+      ],
+      "diagnoses": [
+        "Preterm labor",
+        "Preterm prelabor rupture of membranes",
+        "Term prelabor rupture of membranes"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Prolonged pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_091"
+      ],
+      "diagnoses": [
+        "Post term pregnancy"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Puerperium",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_021",
+        "obgyn_092",
+        "obgyn_093",
+        "obgyn_138",
+        "obgyn_139",
+        "obgyn_140"
+      ],
+      "diagnoses": [
+        "Postpartum endometritis",
+        "Puerperal sepsis",
+        "Postpartum urinary retention",
+        "Sheehan syndrome",
+        "Postpartum depression",
+        "Postpartum psychosis"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Obstetrics",
+      "website_topic": "Neonatal care",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_078"
+      ],
+      "diagnoses": [
+        "Hemolytic disease of the fetus and newborn"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Physiology of female reproductive tract & menstrual cycle",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Anatomy",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Intersex",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_051",
+        "obgyn_096"
+      ],
+      "diagnoses": [
+        "Complete androgen insensitivity syndrome",
+        "Congenital adrenal hyperplasia"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Genital tract congenital abnormalities",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_050",
+        "obgyn_097",
+        "obgyn_052"
+      ],
+      "diagnoses": [
+        "Mullerian agenesis",
+        "Transverse vaginal septum",
+        "Imperforate hymen"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Primary amenorrhea",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_095",
+        "obgyn_050",
+        "obgyn_051",
+        "obgyn_052"
+      ],
+      "diagnoses": [
+        "Turner syndrome",
+        "Mullerian agenesis",
+        "Complete androgen insensitivity syndrome",
+        "Imperforate hymen"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Ectopic pregnancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_027",
+        "obgyn_141",
+        "obgyn_144",
+        "obgyn_145"
+      ],
+      "diagnoses": [
+        "Ectopic pregnancy",
+        "Ruptured ectopic pregnancy",
+        "Cervical ectopic pregnancy",
+        "Interstitial ectopic pregnancy"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Miscarriage",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_029",
+        "obgyn_028",
+        "obgyn_142",
+        "obgyn_143",
+        "obgyn_030",
+        "obgyn_129"
+      ],
+      "diagnoses": [
+        "Threatened miscarriage",
+        "Incomplete miscarriage",
+        "Complete miscarriage",
+        "Inevitable miscarriage",
+        "Missed miscarriage",
+        "Septic miscarriage"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Gestational trophoblastic disease",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_031",
+        "obgyn_128",
+        "obgyn_032"
+      ],
+      "diagnoses": [
+        "Complete hydatidiform mole",
+        "Partial hydatidiform mole",
+        "Gestational choriocarcinoma"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Puberty",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_102",
+        "obgyn_103"
+      ],
+      "diagnoses": [
+        "Central precocious puberty",
+        "Delayed puberty"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Abnormal uterine bleeding",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_104",
+        "obgyn_105",
+        "obgyn_036",
+        "obgyn_106"
+      ],
+      "diagnoses": [
+        "Anovulatory abnormal uterine bleeding",
+        "Endometrial polyp",
+        "Uterine fibroid",
+        "Cervical polyp"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Secondary amenorrhea",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_098",
+        "obgyn_099",
+        "obgyn_100",
+        "obgyn_101",
+        "obgyn_049"
+      ],
+      "diagnoses": [
+        "Functional hypothalamic amenorrhea",
+        "Hyperprolactinemia",
+        "Prolactinoma",
+        "Asherman syndrome",
+        "Premature ovarian insufficiency"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Endometriosis & adenomyosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_034",
+        "obgyn_035",
+        "obgyn_118"
+      ],
+      "diagnoses": [
+        "Endometriosis",
+        "Adenomyosis",
+        "Ovarian endometrioma"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Contraception",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_136",
+        "obgyn_137"
+      ],
+      "diagnoses": [
+        "Contraceptive associated venous thromboembolism",
+        "Intrauterine device perforation"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "PCOS, hirsutism & virilization",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_033",
+        "obgyn_096",
+        "obgyn_124"
+      ],
+      "diagnoses": [
+        "Polycystic ovary syndrome",
+        "Congenital adrenal hyperplasia",
+        "Sertoli Leydig cell tumor"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Menopause & postmenopausal bleeding",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_108",
+        "obgyn_109",
+        "obgyn_041"
+      ],
+      "diagnoses": [
+        "Menopause",
+        "Genitourinary syndrome of menopause",
+        "Endometrial carcinoma"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Urinary incontinence",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_046",
+        "obgyn_047",
+        "obgyn_111",
+        "obgyn_110"
+      ],
+      "diagnoses": [
+        "Stress urinary incontinence",
+        "Urge urinary incontinence",
+        "Mixed urinary incontinence",
+        "Vesicovaginal fistula"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Pelvic organ prolapse",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_048",
+        "obgyn_112",
+        "obgyn_113",
+        "obgyn_114"
+      ],
+      "diagnoses": [
+        "Pelvic organ prolapse",
+        "Cystocele",
+        "Rectocele",
+        "Vault prolapse"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Infections in gynecology/genital tract infection",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_037",
+        "obgyn_115",
+        "obgyn_055",
+        "obgyn_056",
+        "obgyn_057",
+        "obgyn_116",
+        "obgyn_117"
+      ],
+      "diagnoses": [
+        "Pelvic inflammatory disease",
+        "Tubo ovarian abscess",
+        "Vulvovaginal candidiasis",
+        "Bacterial vaginosis",
+        "Trichomoniasis",
+        "Chlamydial cervicitis",
+        "Gonococcal cervicitis"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Fibroid",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_036"
+      ],
+      "diagnoses": [
+        "Uterine fibroid"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Vulval & vaginal benign and premalignant conditions",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_045",
+        "obgyn_127",
+        "obgyn_054"
+      ],
+      "diagnoses": [
+        "Vulvar lichen sclerosus",
+        "Vulvar intraepithelial neoplasia",
+        "Bartholin abscess"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Precancerous cervical lesion",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_043"
+      ],
+      "diagnoses": [
+        "Cervical intraepithelial neoplasia"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Benign ovarian lesion",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_039",
+        "obgyn_119",
+        "obgyn_120",
+        "obgyn_118",
+        "obgyn_038"
+      ],
+      "diagnoses": [
+        "Mature cystic teratoma",
+        "Ovarian serous cystadenoma",
+        "Ovarian mucinous cystadenoma",
+        "Ovarian endometrioma",
+        "Ovarian torsion"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Endometrial hyperplasia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_053"
+      ],
+      "diagnoses": [
+        "Endometrial hyperplasia"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Ovarian malignancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_040",
+        "obgyn_122",
+        "obgyn_123",
+        "obgyn_121",
+        "obgyn_124"
+      ],
+      "diagnoses": [
+        "Epithelial ovarian cancer",
+        "Dysgerminoma",
+        "Ovarian yolk sac tumor",
+        "Granulosa cell tumor",
+        "Sertoli Leydig cell tumor"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Uterine malignancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_041",
+        "obgyn_125"
+      ],
+      "diagnoses": [
+        "Endometrial carcinoma",
+        "Uterine leiomyosarcoma"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Cervical malignancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_042"
+      ],
+      "diagnoses": [
+        "Cervical carcinoma"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Vulval & vaginal malignancy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "obgyn_044",
+        "obgyn_126"
+      ],
+      "diagnoses": [
+        "Vulvar squamous cell carcinoma",
+        "Vaginal carcinoma"
+      ]
+    },
+    {
+      "specialty": "obgyn",
+      "section": "Gynaecology",
+      "website_topic": "Infertility",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "obgyn_132",
+        "obgyn_133",
+        "obgyn_134",
+        "obgyn_135",
+        "obgyn_130",
+        "obgyn_131"
+      ],
+      "diagnoses": [
+        "Tubal factor infertility",
+        "Anovulatory infertility",
+        "Male factor infertility",
+        "Ovarian hyperstimulation syndrome",
+        "Recurrent pregnancy loss",
+        "Antiphospholipid syndrome"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Hematology",
+      "website_topic": "Anemias — IDA, G6PD, Thalassemia, Spherocytosis, Sickle Cell",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_001",
+        "pediatrics_002",
+        "pediatrics_003",
+        "pediatrics_004",
+        "pediatrics_005",
+        "pediatrics_118"
+      ],
+      "diagnoses": [
+        "Iron deficiency anemia",
+        "G6PD deficiency",
+        "Beta thalassemia major",
+        "Hereditary spherocytosis",
+        "Sickle cell disease",
+        "Acute chest syndrome"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Hematology",
+      "website_topic": "Bleeding Disorders — ITP, Hemophilia, VWD",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "pediatrics_006",
+        "pediatrics_007",
+        "pediatrics_008"
+      ],
+      "diagnoses": [
+        "Immune thrombocytopenia",
+        "Hemophilia A",
+        "Von Willebrand disease"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Hematology",
+      "website_topic": "Leukemias & Bone Marrow Failure — Aplastic Anemia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_009",
+        "pediatrics_010"
+      ],
+      "diagnoses": [
+        "Acute lymphoblastic leukemia",
+        "Aplastic anemia"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Neonatology",
+      "website_topic": "Neonatal care & APGAR",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Neonatology",
+      "website_topic": "Neonatal jaundice",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_011",
+        "pediatrics_017",
+        "pediatrics_012"
+      ],
+      "diagnoses": [
+        "Physiological neonatal jaundice",
+        "Kernicterus",
+        "Biliary atresia"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Neonatology",
+      "website_topic": "Prematurity & RDS",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_013",
+        "pediatrics_014",
+        "pediatrics_016",
+        "pediatrics_091"
+      ],
+      "diagnoses": [
+        "Neonatal respiratory distress syndrome",
+        "Transient tachypnea of the newborn",
+        "Necrotizing enterocolitis",
+        "Meconium aspiration syndrome"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Neonatology",
+      "website_topic": "Neonatal sepsis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_015"
+      ],
+      "diagnoses": [
+        "Neonatal sepsis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Neonatology",
+      "website_topic": "Birth injury",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_018",
+        "pediatrics_089",
+        "pediatrics_090"
+      ],
+      "diagnoses": [
+        "Erb palsy",
+        "Cephalohematoma",
+        "Subgaleal hemorrhage"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Neonatology",
+      "website_topic": "Neonatal convulsion",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_087",
+        "pediatrics_116",
+        "pediatrics_088"
+      ],
+      "diagnoses": [
+        "Neonatal hypoglycemia",
+        "Neonatal hypocalcemia",
+        "Hypoxic ischemic encephalopathy"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Neonatology",
+      "website_topic": "TORCH infections",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_019",
+        "pediatrics_020",
+        "pediatrics_021",
+        "pediatrics_092"
+      ],
+      "diagnoses": [
+        "Congenital cytomegalovirus infection",
+        "Congenital toxoplasmosis",
+        "Congenital rubella syndrome",
+        "Congenital syphilis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Gastrointestinal System",
+      "website_topic": "Infant feeding",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "pediatrics_094",
+        "pediatrics_025"
+      ],
+      "diagnoses": [
+        "Failure to thrive",
+        "Secondary lactose intolerance"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Gastrointestinal System",
+      "website_topic": "Acute diarrhea — bloody/non-bloody",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_022",
+        "pediatrics_023"
+      ],
+      "diagnoses": [
+        "Acute gastroenteritis",
+        "Shigellosis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Gastrointestinal System",
+      "website_topic": "Dehydration & ORS",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "pediatrics_095"
+      ],
+      "diagnoses": [
+        "Dehydration"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Gastrointestinal System",
+      "website_topic": "Persistent/chronic diarrhea — Celiac, post-infectious",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_024",
+        "pediatrics_025"
+      ],
+      "diagnoses": [
+        "Celiac disease",
+        "Secondary lactose intolerance"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Gastrointestinal System",
+      "website_topic": "Malnutrition / FTT",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_026",
+        "pediatrics_027",
+        "pediatrics_094"
+      ],
+      "diagnoses": [
+        "Kwashiorkor",
+        "Marasmus",
+        "Failure to thrive"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Gastrointestinal System",
+      "website_topic": "Acute hepatitis & fulminant hepatic failure",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_093",
+        "pediatrics_028"
+      ],
+      "diagnoses": [
+        "Hepatitis A",
+        "Acute liver failure"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Gastrointestinal System",
+      "website_topic": "Chronic liver disease",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "pediatrics_096",
+        "pediatrics_012"
+      ],
+      "diagnoses": [
+        "Hepatic Wilson disease",
+        "Biliary atresia"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Cardiovascular System",
+      "website_topic": "Cyanotic CHD — TOF, TGA",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_029",
+        "pediatrics_030"
+      ],
+      "diagnoses": [
+        "Tetralogy of Fallot",
+        "Transposition of the great arteries"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Cardiovascular System",
+      "website_topic": "Acyanotic CHD — VSD, ASD, PDA",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_031",
+        "pediatrics_032",
+        "pediatrics_033",
+        "pediatrics_098"
+      ],
+      "diagnoses": [
+        "Ventricular septal defect",
+        "Atrial septal defect",
+        "Patent ductus arteriosus",
+        "Coarctation of the aorta"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Cardiovascular System",
+      "website_topic": "Acquired heart disease — Rheumatic HD, Infective Endocarditis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_034",
+        "pediatrics_035"
+      ],
+      "diagnoses": [
+        "Acute rheumatic fever",
+        "Infective endocarditis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Cardiovascular System",
+      "website_topic": "Heart failure",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_097"
+      ],
+      "diagnoses": [
+        "Congestive heart failure"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Respiratory System",
+      "website_topic": "Asthma",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_036"
+      ],
+      "diagnoses": [
+        "Asthma"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Respiratory System",
+      "website_topic": "Bronchiolitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_037"
+      ],
+      "diagnoses": [
+        "Bronchiolitis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Respiratory System",
+      "website_topic": "Pneumonia",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_038"
+      ],
+      "diagnoses": [
+        "Pneumonia"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Respiratory System",
+      "website_topic": "URTI — Croup, Epiglottitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_039",
+        "pediatrics_040"
+      ],
+      "diagnoses": [
+        "Croup",
+        "Epiglottitis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Respiratory System",
+      "website_topic": "Recurrent RTI — CF, Bronchiectasis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_041",
+        "pediatrics_042"
+      ],
+      "diagnoses": [
+        "Cystic fibrosis",
+        "Bronchiectasis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Tuberculosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_052"
+      ],
+      "diagnoses": [
+        "Tuberculosis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Exanthema — Scarlet fever, Measles, Mumps, Rubella, etc.",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_046",
+        "pediatrics_043",
+        "pediatrics_044",
+        "pediatrics_045",
+        "pediatrics_100",
+        "pediatrics_101",
+        "pediatrics_102"
+      ],
+      "diagnoses": [
+        "Scarlet fever",
+        "Measles",
+        "Mumps",
+        "Rubella",
+        "Roseola infantum",
+        "Erythema infectiosum",
+        "Hand foot and mouth disease"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Diphtheria",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_049"
+      ],
+      "diagnoses": [
+        "Diphtheria"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Pertussis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_048"
+      ],
+      "diagnoses": [
+        "Pertussis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Tetanus",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_099"
+      ],
+      "diagnoses": [
+        "Tetanus"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Kala azar",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_050"
+      ],
+      "diagnoses": [
+        "Visceral leishmaniasis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Varicella",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_047"
+      ],
+      "diagnoses": [
+        "Varicella"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "Infectious mononucleosis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_051"
+      ],
+      "diagnoses": [
+        "Infectious mononucleosis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Infectious Diseases",
+      "website_topic": "PUO",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Nephrology",
+      "website_topic": "UTI",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_053"
+      ],
+      "diagnoses": [
+        "Urinary tract infection"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Nephrology",
+      "website_topic": "Acute renal failure",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_057",
+        "pediatrics_104"
+      ],
+      "diagnoses": [
+        "Prerenal acute kidney injury",
+        "Acute tubular injury"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Nephrology",
+      "website_topic": "Nephrotic syndrome",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_054"
+      ],
+      "diagnoses": [
+        "Minimal change disease"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Nephrology",
+      "website_topic": "Glomerulonephritis & Hypertension",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_055",
+        "pediatrics_103"
+      ],
+      "diagnoses": [
+        "Poststreptococcal glomerulonephritis",
+        "IgA nephropathy"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Nephrology",
+      "website_topic": "Hematuria & HUS",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_056",
+        "pediatrics_103"
+      ],
+      "diagnoses": [
+        "Hemolytic uremic syndrome",
+        "IgA nephropathy"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Central Nervous System",
+      "website_topic": "CNS infections — Meningitis, Encephalitis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_058",
+        "pediatrics_059"
+      ],
+      "diagnoses": [
+        "Bacterial meningitis",
+        "Encephalitis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Central Nervous System",
+      "website_topic": "Acute paralysis",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_060",
+        "pediatrics_106"
+      ],
+      "diagnoses": [
+        "Guillain Barre syndrome",
+        "Acute flaccid myelitis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Central Nervous System",
+      "website_topic": "Epilepsy/Seizures & mimics",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_061",
+        "pediatrics_062",
+        "pediatrics_063",
+        "pediatrics_105"
+      ],
+      "diagnoses": [
+        "Simple febrile seizure",
+        "Absence epilepsy",
+        "Status epilepticus",
+        "Breath holding spells"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Central Nervous System",
+      "website_topic": "Cerebral palsy",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_064"
+      ],
+      "diagnoses": [
+        "Spastic cerebral palsy"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Endocrine",
+      "website_topic": "Rickets & Parathyroid disorders",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_065",
+        "pediatrics_084"
+      ],
+      "diagnoses": [
+        "Nutritional rickets",
+        "Hypoparathyroidism"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Endocrine",
+      "website_topic": "Diabetes Mellitus",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_066",
+        "pediatrics_067"
+      ],
+      "diagnoses": [
+        "Type 1 diabetes mellitus",
+        "Diabetic ketoacidosis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Endocrine",
+      "website_topic": "Thyroid disorders — Hypo-/Hyperthyroidism",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_068",
+        "pediatrics_109",
+        "pediatrics_069"
+      ],
+      "diagnoses": [
+        "Congenital hypothyroidism",
+        "Acquired hypothyroidism",
+        "Graves disease"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Endocrine",
+      "website_topic": "Short stature",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_070",
+        "pediatrics_107",
+        "pediatrics_108"
+      ],
+      "diagnoses": [
+        "Growth hormone deficiency",
+        "Familial short stature",
+        "Constitutional delay of growth and puberty"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Genetics",
+      "website_topic": "Down & Turner syndromes",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_071",
+        "pediatrics_072"
+      ],
+      "diagnoses": [
+        "Down syndrome",
+        "Turner syndrome"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Genetics",
+      "website_topic": "Types of inheritance",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Rheumatology",
+      "website_topic": "Vasculitis — HSP, Kawasaki",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_073",
+        "pediatrics_074"
+      ],
+      "diagnoses": [
+        "IgA vasculitis",
+        "Kawasaki disease"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Rheumatology",
+      "website_topic": "Connective tissue disease — JRA, SLE",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_075",
+        "pediatrics_082"
+      ],
+      "diagnoses": [
+        "Juvenile idiopathic arthritis",
+        "Systemic lupus erythematosus"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Immunization",
+      "website_topic": "Vaccination schedule",
+      "status": "Not a standalone diagnosis / needs a separate curriculum mode",
+      "case_ids": [],
+      "diagnoses": []
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Immunization",
+      "website_topic": "Side effects of vaccines",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_085",
+        "pediatrics_117"
+      ],
+      "diagnoses": [
+        "Vaccine associated anaphylaxis",
+        "BCG lymphadenitis"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Growth & Development",
+      "website_topic": "Growth & Development Milestones",
+      "status": "Clinical examples only; wider curriculum partly represented",
+      "case_ids": [
+        "pediatrics_086",
+        "pediatrics_094"
+      ],
+      "diagnoses": [
+        "Global developmental delay",
+        "Failure to thrive"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Others",
+      "website_topic": "Pediatric emergencies — CPA, Anaphylaxis, Status Epilepticus",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_115",
+        "pediatrics_076",
+        "pediatrics_063"
+      ],
+      "diagnoses": [
+        "Cardiac arrest",
+        "Anaphylaxis",
+        "Status epilepticus"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Others",
+      "website_topic": "Poisoning",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_077",
+        "pediatrics_078",
+        "pediatrics_110",
+        "pediatrics_111"
+      ],
+      "diagnoses": [
+        "Iron poisoning",
+        "Salicylate poisoning",
+        "Paracetamol poisoning",
+        "Organophosphate poisoning"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Others",
+      "website_topic": "Child abuse",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_081"
+      ],
+      "diagnoses": [
+        "Abusive head trauma"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Others",
+      "website_topic": "Autism",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_079"
+      ],
+      "diagnoses": [
+        "Autism spectrum disorder"
+      ]
+    },
+    {
+      "specialty": "pediatrics",
+      "section": "Others",
+      "website_topic": "Immunodeficiency",
+      "status": "Clinical examples mapped; not an exhaustive disease list",
+      "case_ids": [
+        "pediatrics_080",
+        "pediatrics_113",
+        "pediatrics_114"
+      ],
+      "diagnoses": [
+        "Severe combined immunodeficiency",
+        "X linked agammaglobulinemia",
+        "Chronic granulomatous disease"
+      ]
+    }
+  ]
+}
