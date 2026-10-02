@@ -66,8 +66,11 @@ class Telegram:
         return await self.call('sendMessage', **payload)
 
 class GameBot:
-    def __init__(self, api, bank, store, clock=time.time):
+    def __init__(self, api, bank, store, clock=time.time, clue_seconds=CLUE_SECONDS):
         self.api, self.bank, self.store, self.clock = api, bank, store, clock
+        if not isinstance(clue_seconds, int) or isinstance(clue_seconds, bool) or clue_seconds <= 0:
+            raise ValueError("CLUE_SECONDS must be a positive integer in seconds")
+        self.clue_seconds = clue_seconds
         self.games = store.sessions()
         self.menus = {}
         self.lock = asyncio.Lock()
@@ -96,7 +99,7 @@ class GameBot:
         nonce = secrets.token_hex(4)
         self.menus[scope] = {**context, 'nonce':nonce, 'stage':'specialty', 'created':self.clock()}
         keyboard = [[{'text':name,'callback_data':f'dx:{nonce}:s:{key}'}] for key,name in SPECIALTIES.items()]
-        await self.api.send(context, '🩺 Guess the Diagnosis\nاختار الاختصاص. الكيسات والجواب بالإنكليزي.\n٤ تلميحات، لكل تلميح ٢٥ ثانية.', keyboard)
+        await self.api.send(context, f'🩺 Guess the Diagnosis\nاختار الاختصاص. الكيسات والجواب بالإنكليزي.\n٤ تلميحات، لكل تلميح {self.clue_seconds} ثانية.', keyboard)
 
     async def callback(self, query):
         message, user = query.get('message'), query['from']
@@ -151,13 +154,13 @@ class GameBot:
         case = self.bank.by_id[game['case_ids'][game['index']]]
         clue = game['clue']
         text = self.bank.clues(case, game['difficulty'])[clue]
-        message = f'🩺 Case {game["index"]+1}/{len(game["case_ids"])} | {game["difficulty"].title()}\n🔎 Clue {clue+1}/4 | {POINTS[clue]} points | 25 seconds\n\n{text}\n\nWhat is the diagnosis?'
+        message = f'🩺 Case {game["index"]+1}/{len(game["case_ids"])} | {game["difficulty"].title()}\n🔎 Clue {clue+1}/4 | {POINTS[clue]} points | {self.clue_seconds} seconds\n\n{text}\n\nWhat is the diagnosis?'
         # Do not reveal the subsection: it can itself give away the answer.
         game['accepting'] = False
         self.save(scope)
         await self.api.send(game, message)
         game['opened'] = self.clock()
-        game['deadline'] = game['opened'] + CLUE_SECONDS
+        game['deadline'] = game['opened'] + self.clue_seconds
         game['accepting'] = True
         game['phase'] = 'clue'
         self.save(scope)
@@ -246,7 +249,7 @@ class GameBot:
         if name in ('start','newgame','play'):
             await self.menu(message,user)
         elif name == 'help':
-            await self.api.send(ctx, '🩺 /newgame تبدأ لعبة\n/guess diagnosis جواب إذا الخصوصية مفعلة\n/rounds 12 عدد مخصص\n/score نقاط الكيم\n/leaderboard النقاط المحفوظة\n/skip يتجاوز الكيس (صاحب اللعبة أو الأدمن)\n/stop يوقف اللعبة (صاحب اللعبة أو الأدمن)\n/bank إحصائية البنك\nالكيسات والجواب بالإنكليزي. ٤ تلميحات × ٢٥ ثانية.\nبالكروب عطّل Privacy Mode من BotFather لاستقبال الأجوبة العادية. الأوامر تبقى تشتغل.\nالبنك تعليمي، مو أسئلة وزارية رسمية.')
+            await self.api.send(ctx, f'🩺 /newgame تبدأ لعبة\n/guess diagnosis جواب إذا الخصوصية مفعلة\n/rounds 12 عدد مخصص\n/score نقاط الكيم\n/leaderboard النقاط المحفوظة\n/skip يتجاوز الكيس (صاحب اللعبة أو الأدمن)\n/stop يوقف اللعبة (صاحب اللعبة أو الأدمن)\n/bank إحصائية البنك\nالكيسات والجواب بالإنكليزي. ٤ تلميحات × {self.clue_seconds} ثانية.\nبالكروب عطّل Privacy Mode من BotFather لاستقبال الأجوبة العادية. الأوامر تبقى تشتغل.\nالبنك تعليمي، مو أسئلة وزارية رسمية.')
         elif name == 'guess':
             await self.answer(message,user,arg)
         elif name == 'rounds':
@@ -332,7 +335,13 @@ async def run():
     api = Telegram(token)
     bank = Bank(ROOT/'data'/'cases.json')
     store = Store(os.getenv('DB_PATH',str(ROOT/'state'/'game.sqlite3')))
-    bot = GameBot(api,bank,store)
+    try:
+        clue_seconds = int(os.getenv("CLUE_SECONDS", str(CLUE_SECONDS)))
+        if clue_seconds <= 0:
+            raise ValueError
+    except ValueError:
+        raise SystemExit("CLUE_SECONDS must be a positive integer in seconds, e.g. 40.") from None
+    bot = GameBot(api,bank,store,clue_seconds=clue_seconds)
     identity = await api.call('getMe')
     bot.username = identity['username']
     # Polling needs an unoccupied webhook. Preserve pending updates; stale answer timestamps are rejected.
