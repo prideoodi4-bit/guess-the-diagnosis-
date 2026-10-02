@@ -92,6 +92,7 @@ class Store:
         self.db = sqlite3.connect(path)
         self.db.execute('PRAGMA journal_mode=WAL')
         self.db.executescript('''
+        CREATE TABLE IF NOT EXISTS settings(scope TEXT PRIMARY KEY, clue_seconds INTEGER NOT NULL);
         CREATE TABLE IF NOT EXISTS sessions(scope TEXT PRIMARY KEY, payload TEXT NOT NULL);
         CREATE TABLE IF NOT EXISTS seen(scope TEXT, specialty TEXT, diagnosis TEXT,
             PRIMARY KEY(scope, specialty, diagnosis));
@@ -99,6 +100,16 @@ class Store:
             PRIMARY KEY(scope, user_id));
         ''')
         self.db.commit()
+
+    def clue_time(self, scope, default=25):
+        row=self.db.execute('SELECT clue_seconds FROM settings WHERE scope=?',(scope,)).fetchone()
+        return row[0] if row else default
+
+    def set_clue_time(self, scope, seconds):
+        if not isinstance(seconds,int) or isinstance(seconds,bool) or not 5 <= seconds <= 600:
+            raise ValueError('Time must be an integer between 5 and 600 seconds')
+        with self.db:
+            self.db.execute('INSERT OR REPLACE INTO settings VALUES (?,?)',(scope,seconds))
 
     def save(self, scope, game):
         with self.db:
